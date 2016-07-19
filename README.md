@@ -1,0 +1,2 @@
+# Sha
+A simple AI
